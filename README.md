@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dCiciero
 - 👀 I’m interested in developing great software
 - 🌱 I’m currently improving my skills on several techs and a life long learner
-- 💞️ I’m looking to collaborate on diverse projects within the Puthon and .NetCore stack
+- 💞️ I’m looking to collaborate on diverse projects within the Python and .NetCore stack
 - 📫 I can be reached via: ivhurie01@yahoo.co.uk
 
 <!---
